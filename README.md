@@ -6,7 +6,7 @@ I am also passionate about implementing automated detection and classification p
 
 Feel free to contact me at: mitchfen@mail.ubc.ca
 
-Check out my personal website (under development): https://mitch-fen.github.io/
+Check out my [personal website (under development)](https://mitch-fen.github.io/)
 
 ![Goat Image](https://storage.googleapis.com/wildco-images/CATH/CATH18/CATH18__2019-07-13__20-49-482.JPG)
 
